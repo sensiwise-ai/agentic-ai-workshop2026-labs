@@ -148,7 +148,7 @@ ISO 27001 · ISO 9001 certified.
 - Web: [sensiwise.ai](https://sensiwise.ai)
 - Email: [hello@sensiwise.ai](mailto:hello@sensiwise.ai)
 - Registered in England and Wales, Company No. 15173736
-- 85 Great Portland Street, First Floor, London, W1W 7LT
+- 167-169 Great Portland Street, London, Greater London, England, W1W 7LT
 
 These labs were developed for *Beyond Automation: Build AI Agents That Think, Decide, and Act*, a two-day industry masterclass held at the University of Essex, 1–2 October 2026.
 
